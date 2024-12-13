@@ -1,5 +1,6 @@
 # 💫 About Me:
 
+
 👋 Hello there! I'm Bahugun Sai<br>🌟 About Me:<br>Final-Year B.Tech Student in the Computer Science and Engineering department, passionate about Web development, Machine Learning, Deep Learning, Natural Language Processing, and Generative AI.<br>Enthusiastic about building innovative projects, solving puzzles, and exploring the limitless possibilities of technology.<br>An anime fan and a curious learner who enjoys watching documentaries, solving challenging problems, and playing games in my free time.urious learner who enjoys watching documentaries, solving challenging problems, and playing games in my free time.<br><br>✨ Hobbies:<br>Anime, puzzle-solving, playing games, and exploring new ideas through documentaries.<br><br>🚀 Let’s Connect:<br>I'm always open to collaborations, learning new skills, and tackling innovative challenges. Feel free to explore my repositories or reach out to discuss ideas!
 
 
